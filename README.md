@@ -1,3 +1,3 @@
 # Dowit
 
-Practice session on SvelteKit & FireBase
+Practice session on SvelteKit & FireBase.
